@@ -1,0 +1,11 @@
+BEM - Block Element Modifier
+
+It is a kinda CSS rule for structuring and making more sense about the CSS for other developers
+
+----Block -> a set of single purpose block which can be used multiple times around the website
+
+----Element -> gives meaning to the block and cannot be used outsite usually has the __(two underscore based on purpose)
+
+----Modifier -> it gives modification to the normal block, example will be a main button which has general layout and button--orange will be orange color button
+
+another example will be an on-hover or on-click property
